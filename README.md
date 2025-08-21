@@ -26,4 +26,4 @@ pandas
 
 scikit-learn
 
-Colab ortamı (isteğe bağlı)S
+Colab ortamı (isteğe bağlı)
